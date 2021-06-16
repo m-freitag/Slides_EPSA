@@ -326,10 +326,80 @@ knitr::include_graphics("Figs/screen1.png")
 
 # Baseline Ratings
 
-Results: TBD. Hier Lukas Version deutlich kürzen; va. in der verbalen Darstellung!
+```{r, echo=FALSE, fig.align='center', out.width="80%"}
+magick::image_read_pdf("Figs/desc_rating.pdf")
+```
 
-- Discussion slides von Lukas weglassen --> key points hier bei result slides nennen
+---
 
+# Baseline Effects - Moral Dimensions
+
+```{r, echo=FALSE, fig.align='center', out.width="100%"}
+knitr::include_graphics("Figs/main_morals.png")
+```
+
+---
+
+# Baseline Effects - Economic Dimensions
+
+```{r, echo=FALSE, fig.align='center', out.width="100%"}
+knitr::include_graphics("Figs/main_econ.png")
+```
+
+
+---
+  
+# Baseline Effects - Geopolitical, Type, Signal
+
+```{r, echo=FALSE, fig.align='center', out.width="100%"}
+knitr::include_graphics("Figs/main_secur.png")
+```
+
+---
+
+# Trade-Offs: Morals with High/Low Econ. Value
+
+```{r, echo=FALSE, fig.align='center', out.width="80%"}
+knitr::include_graphics("Figs/int_econ.png")
+```
+
+---
+
+# Trade-Offs: Allies Trading
+
+```{r, echo=FALSE, fig.align='center', out.width="70%"}
+knitr::include_graphics("Figs/int_ally.png")
+```
+
+---
+
+# Foreign Policy Values: Militant Internat. Subgroup
+
+```{r, echo=FALSE, fig.align='center', out.width="80%"}
+knitr::include_graphics("Figs/MI.png")
+```
+
+---
+
+# Foreign Policy Values: Coop. Internat. Subgroup
+
+```{r, echo=FALSE, fig.align='center', out.width="70%"}
+knitr::include_graphics("Figs/CI.png")
+```
+---
+
+# Conjoint Attributes by Country
+
+```{r, echo=FALSE, fig.align='center', out.width="70%"}
+knitr::include_graphics("Figs/defr.png")
+```
+---
+
+# Ratings in Germany and France
+
+```{r, echo=FALSE, fig.align='center', out.width="70%"}
+knitr::include_graphics("Figs/rate_defr.png")
+```
 
 ---
 

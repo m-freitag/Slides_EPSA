@@ -295,3 +295,20 @@ h2, h3, h4 {
 .full p {
   margin-top: 0px;
 }
+
+
+.my-footer {
+    background-color: #415564; 
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    height: 25px;
+    width: 20%;
+}
+.my-footer span {
+    font-size: 13pt;
+    color: #f6f3f2;
+    position: absolute;
+    left: 15px;
+    bottom: 1px;
+}
