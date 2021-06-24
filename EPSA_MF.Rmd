@@ -1,6 +1,5 @@
 ---
-title: "Lys"
-subtitle: "goes Xaringan"  
+title: "The Comparative Legitimacy of Arms Exports" 
 author: 
   - "Markus Freitag"
 date: '`r Sys.Date()`'
@@ -156,6 +155,8 @@ knitr::include_graphics("Figs/hb.png")
   - But: This is much more visible in some than in others
   
 - Arms trade allows for a value-based and interest-based perspective on foreign policy
+
+&rightarrow; Exemplary policy field for nuanced trade-offs in decision making
 ]
 
 .pull-right[
